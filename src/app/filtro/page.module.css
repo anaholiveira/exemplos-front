@@ -1,0 +1,36 @@
+.titulo {
+    color: white;
+    font-family: Nerko One, cursive;
+    font-size: 40px;
+    text-align: center;
+}
+
+.ul {
+    color: white;
+    list-style-type: none;
+}
+
+.input {
+    border-radius: 10px;
+    height: 27px;
+    width: 250px;
+    margin-top: 25px;
+    box-shadow: 3px 3px 5px white;
+}
+
+.li {
+    margin: 10px;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Kalam, cursive;
+}
+
+.div{
+    width: 550px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid var(--cor3);
+    border-radius: 15px;
+    box-shadow: 3px 5px 8px var(--cor3);
+    margin-top: 25px;
+}
