@@ -56,7 +56,7 @@ export default function Listas (){
                             <h3 className={styles.idmodelo}>{carro.id} - {carro.modelo}</h3>
                             <p className={styles.paragrafos}>Cor: {carro.cor}</p>
                             <p className={styles.paragrafos}>Ano: {carro.ano}</p>
-                        </div>    
+                        </div>
                     ))
                 }
             </div> 
