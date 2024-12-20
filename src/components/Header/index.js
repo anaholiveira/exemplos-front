@@ -38,6 +38,9 @@ export default function Header() {
                     <li className={styles.gradient}>
                         <Link className={styles.links} href="/filtro">Filter</Link>
                     </li>
+                    <li className={styles.gradient}>
+                        <Link className={styles.links} href="/efeitos">Efeitos</Link>
+                    </li>
                 </ul>
             </nav>
         </header>

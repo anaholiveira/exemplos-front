@@ -1,0 +1,36 @@
+.titulo {
+    color: white;
+    font-family: Nerko One, cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.div{
+    width: 500px;
+    height: 250px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid var(--cor3);
+    border-radius: 15px;
+    box-shadow: 3px 5px 8px var(--cor3);
+    margin-top: 25px;
+}
+
+.select {
+    margin: 30px;
+    width: 180px;
+    height: 35px;
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px white;
+    color: var(--cor3);
+    font-weight: bold;
+}
+
+.paragrafo {
+    color: white;
+    font-family: Nerko One, cursive;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+}
